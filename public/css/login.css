@@ -1,0 +1,95 @@
+nav{
+    background-color: #A7DF7F;
+}
+
+nav a{
+    color: #4F5255;
+    font-size:20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+nav a:hover{
+    color: #3362AD;
+    font-size:20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.login-btn{
+   
+    background-color: #F36F21;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.login-btn:hover{
+    background-color: #4F5255;
+    color:white;
+    font-weight: bold;
+}
+
+.container-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.card-pin{
+    background-color: #3362AD;
+    padding: 5%;
+    border-radius: 50px;
+}
+
+.input-pin{
+    background-color: #F36F21;
+    border-radius: 20px;
+    border-width: 3px;
+    border-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.input-pin::placeholder { 
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+
+.input-pin:focus{
+    background-color: white;
+    color: #3362AD;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ok-btn{
+    background-color: #4F5255;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
