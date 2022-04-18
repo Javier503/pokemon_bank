@@ -1,0 +1,56 @@
+nav{
+    background-color: #A7DF7F;
+}
+
+nav a{
+    color: #4F5255;
+    font-size:20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+nav a:hover{
+    color: #3362AD;
+    font-size:20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.option{
+    background-color: #F36F21;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 2%;
+    margin-bottom: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.option-danger{
+    background-color: #ED1C24;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 2%;
+    margin-bottom: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.option-danger:hover{
+    background-color: #4F5255;
+    color:white;
+    font-weight: bold;
+}
+.option:hover{
+    background-color: #4F5255;
+    color:white;
+    font-weight: bold;
+}
